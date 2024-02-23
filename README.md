@@ -1,4 +1,4 @@
-# Fancy Calculator
+# Calculator using Python and Tkinter
 
 Welcome to the Fancy Calculator - a sleek, user-friendly, and powerful calculator built with Python's Tkinter. Designed with simplicity and efficiency in mind, it offers a seamless experience for all your basic calculation needs, from simple arithmetic to more complex equations.
 
@@ -22,8 +22,7 @@ Ensure you have Python installed on your system. This project was built with Pyt
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/fancy-calculator.git
-    cd fancy-calculator
+    git clone [https://github.com/sushantkothari/calculator-using-python-and-tkinter.git](https://github.com/sushantkothari/calculator-using--python-and-tkinter.git)
     ```
 
 2. **Run the Calculator**
