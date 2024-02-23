@@ -22,7 +22,7 @@ Ensure you have Python installed on your system. This project was built with Pyt
 1. **Clone the Repository**
 
     ```bash
-    git clone (https://github.com/sushantkothari/calculator-using--python-and-tkinter.git)
+    git clone [https://github.com/sushantkothari/calculator-using--python-and-tkinter.git]
     ```
 
 2. **Run the Calculator**
