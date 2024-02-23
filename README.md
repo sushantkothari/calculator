@@ -1,6 +1,6 @@
 # Calculator using Python and Tkinter
 
-Welcome to the Fancy Calculator - a sleek, user-friendly, and powerful calculator built with Python's Tkinter. Designed with simplicity and efficiency in mind, it offers a seamless experience for all your basic calculation needs, from simple arithmetic to more complex equations.
+Welcome to a Fancy Calculator - a sleek, user-friendly, and powerful calculator built with Python's Tkinter. Designed with simplicity and efficiency in mind, it offers a seamless experience for all your basic calculation needs, from simple arithmetic to more complex equations.
 
 ## Features
 
